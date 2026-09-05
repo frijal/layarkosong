@@ -971,3 +971,4 @@ https://dalam.web.id/lainnya/generator-surat-pengunduran-diri
 https://dalam.web.id/warta-tekno/website-dari-json
 https://dalam.web.id/warta-tekno/penjelasan-generate-gitignore-js
 https://dalam.web.id/sistem-terbuka/linux-debian-cinnamon-kedamaian
+https://dalam.web.id/olah-media/editor-json-artikel-mingguan

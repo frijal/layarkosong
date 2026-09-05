@@ -215,3 +215,4 @@ misteri-potongan-token-listrik-ppj
 program-mbg-bebani-guru-fokus-mengajar-malah-urus-ompreng
 strategi-vendor-lock-in-microsoft
 kenapa-orang-tetap-pakai-windows-padahal-linux-gratis
+mengenal-openmandriva-linux
