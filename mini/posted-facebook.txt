@@ -978,3 +978,4 @@ https://dalam.web.id/sistem-terbuka/linux-repo-guide
 https://dalam.web.id/warta-tekno/penjelasan-workflow-upgrade-everything-yml
 https://dalam.web.id/sistem-terbuka/cara-autostart-skrip-di-ubuntu
 https://dalam.web.id/opini-sosial/komunikasi-keluarga-digital
+https://dalam.web.id/warta-tekno/panduan-layar-kosong

@@ -234,3 +234,4 @@ https://dalam.web.id/sistem-terbuka/koneksi-wifi-ad-hoc-linux-solusi-berbagi-int
 [panduan-restore-data-deja-dup-timeshift]
 [perbandingan-shelly-vs-octopi-vs-pacseek]
 [performa-aur-shelly-vs-octopi]
+[downgrade-dari-debian-testing-kembali-ke-stable]
