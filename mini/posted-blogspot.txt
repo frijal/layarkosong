@@ -236,3 +236,4 @@ https://dalam.web.id/sistem-terbuka/koneksi-wifi-ad-hoc-linux-solusi-berbagi-int
 [performa-aur-shelly-vs-octopi]
 [downgrade-dari-debian-testing-kembali-ke-stable]
 [shelly-alpm-arch-linux]
+[perbandingan-shelly-vs-pamac]

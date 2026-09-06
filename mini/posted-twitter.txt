@@ -218,3 +218,4 @@ kenapa-orang-tetap-pakai-windows-padahal-linux-gratis
 mengenal-openmandriva-linux
 fedora-44-rilis-terbaru-2026
 perbandingan-wayland-gnome-50-vs-kde-plasma-6-6
+detail-fitur-gnome-50
