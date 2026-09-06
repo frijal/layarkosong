@@ -237,3 +237,4 @@ https://dalam.web.id/sistem-terbuka/koneksi-wifi-ad-hoc-linux-solusi-berbagi-int
 [downgrade-dari-debian-testing-kembali-ke-stable]
 [shelly-alpm-arch-linux]
 [perbandingan-shelly-vs-pamac]
+[panduan-restore-data-debian-stable]
