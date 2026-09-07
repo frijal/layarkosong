@@ -238,3 +238,4 @@ https://dalam.web.id/sistem-terbuka/koneksi-wifi-ad-hoc-linux-solusi-berbagi-int
 [shelly-alpm-arch-linux]
 [perbandingan-shelly-vs-pamac]
 [panduan-restore-data-debian-stable]
+[shelly-2-3-2-2-update-arch-linux-cachyos]

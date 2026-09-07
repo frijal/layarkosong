@@ -982,3 +982,4 @@ https://dalam.web.id/warta-tekno/panduan-layar-kosong
 https://dalam.web.id/opini-sosial/jusuf-kalla-nobel-perdamaian
 https://dalam.web.id/warta-tekno/penjelasan-markdown-js
 https://dalam.web.id/warta-tekno/penjelasan-generate-icons-js
+https://dalam.web.id/sistem-terbuka/biskuit-linux-itu-nyata
