@@ -222,3 +222,4 @@ detail-fitur-gnome-50
 panduan-lengkap-restic-backup-cli-linux
 rilis-clonezilla-live-3-3-2-31
 perbedaan-debian-stable-testing-dan-unstable-sid
+cara-migrasi-debian-stable-ke-testing
