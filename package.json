@@ -26,8 +26,8 @@
     "cheerio": "^1.2.0",
     "fast-xml-parser": "^5.11.1",
     "glob": "^13.0.6",
-    "nodemailer": "^10.0.0",
-    "puppeteer": "^25.9.0",
+    "nodemailer": "^10.0.1",
+    "puppeteer": "^25.10.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "sharp": "^0.35.4",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "typescript": "^7.0.2",
-    "wrangler": "^4.128.0"
+    "wrangler": "^4.129.0"
   },
   "engines": {
     "bun": ">=1.3.0",
