@@ -185,6 +185,10 @@ https://:version.:project.pages.dev/*
   Content-Type: application/rss+xml; charset=utf-8
 /atom.atom
   Content-Type: application/atom+xml; charset=utf-8
+/sistem-terbuka.rss
+  Content-Type: application/rss+xml; charset=utf-8
+/sistem-terbuka.atom
+  Content-Type: application/atom+xml; charset=utf-8
 /lainnya.rss
   Content-Type: application/rss+xml; charset=utf-8
 /lainnya.atom
@@ -200,10 +204,6 @@ https://:version.:project.pages.dev/*
 /olah-media.rss
   Content-Type: application/rss+xml; charset=utf-8
 /olah-media.atom
-  Content-Type: application/atom+xml; charset=utf-8
-/sistem-terbuka.rss
-  Content-Type: application/rss+xml; charset=utf-8
-/sistem-terbuka.atom
   Content-Type: application/atom+xml; charset=utf-8
 /opini-sosial.rss
   Content-Type: application/rss+xml; charset=utf-8
