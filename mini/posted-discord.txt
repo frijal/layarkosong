@@ -889,3 +889,4 @@ https://dalam.web.id/warta-tekno/backlog-management-maintenance
 https://dalam.web.id/opini-sosial/apakah-bsu-2026-akan-cair
 https://dalam.web.id/warta-tekno/cloudflare-speed-cli
 https://dalam.web.id/opini-sosial/bilqis-humaira-ai-kritik-indonesia
+https://dalam.web.id/sistem-terbuka/kde-plasma-6-8-rilis-aksesibilitas-fitur-baru
