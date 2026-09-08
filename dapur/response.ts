@@ -71,7 +71,7 @@ type LayarKosongWindow = Window & {
   // --- Konfigurasi ---
   const TWIKOO_ENV_ID = 'https://kom.dalam.web.id';
   const TWIKOO_CONTAINER_ID = '#response';
-  const TWIKOO_CDN = 'https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.min.js';
+  const TWIKOO_CDN = 'https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.min.js';
 
   const OBSERVER_ROOT_MARGIN = '300px 0px'; // mulai load 300px sebelum #response kelihatan
   const SCRIPT_POLL_INTERVAL_MS = 100;
